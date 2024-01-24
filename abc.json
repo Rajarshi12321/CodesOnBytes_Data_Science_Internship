@@ -1,0 +1,133 @@
+{
+    "index_name": "8d3b6596-b09e-4077-aebf-425193185a5b",
+    "title": "Monthly Crude Oil Processed by Refineries",
+    "desc": "Monthly Crude Oil Processed by Refineries",
+    "created": 1687434829260,
+    "updated": 1687434890,
+    "created_date": "2023-06-22T17:24:31Z",
+    "updated_date": "2023-06-22T17:24:50Z",
+    "active": "1",
+    "visualizable": "1",
+    "catalog_uuid": "ed4dbe82-439e-4e7f-b217-ce64627a49fc",
+    "source": "data.gov.in",
+    "org_type": "Central",
+    "org": [
+        "Ministry of Petroleum and Natural Gas",
+        "Petroleum Planning & Analysis Cell (PPAC)"
+    ],
+    "sector": [
+        "Non Renewable"
+    ],
+    "field": [
+        {
+            "name": "Month",
+            "id": "month",
+            "type": "keyword"
+        },
+        {
+            "name": "Year",
+            "id": "year",
+            "type": "double"
+        },
+        {
+            "name": "OIL COMPANIES",
+            "id": "oil_companies_",
+            "type": "keyword"
+        },
+        {
+            "name": "Quantity (000 Metric Tonnes)",
+            "id": "quantity_000_metric_tonnes_",
+            "type": "double"
+        },
+        {
+            "name": "last_updated",
+            "format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||dd/MM/yyyy",
+            "id": "last_updated",
+            "type": "date"
+        }
+    ],
+    "target_bucket": {
+        "index": "api",
+        "type": "ed4dbe82-439e-4e7f-b217-ce64627a49fc",
+        "field": "8d3b6596-b09e-4077-aebf-425193185a5b"
+    },
+    "message": "Resource lists",
+    "version": "2.2.0",
+    "status": "ok",
+    "total": 1189,
+    "count": 10,
+    "limit": 10,
+    "offset": "0",
+    "records": [
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-HALDIA, WEST BENGAL",
+            "quantity_000_metric_tonnes_": "706.28",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-MATHURA, UTTAR PRADESH",
+            "quantity_000_metric_tonnes_": "836.71",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-BONGAIGAON,ASSAM",
+            "quantity_000_metric_tonnes_": "249.60",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "BORL-BINA",
+            "quantity_000_metric_tonnes_": "593.53",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "RIL-(SEZ), JAMNAGAR,GUJARAT",
+            "quantity_000_metric_tonnes_": "2514.05",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "NEL-VADINAR,GUJARAT",
+            "quantity_000_metric_tonnes_": "1670.56",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-KOYALI, GUJARAT",
+            "quantity_000_metric_tonnes_": "1330.39",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-MATHURA, UTTAR PRADESH",
+            "quantity_000_metric_tonnes_": "833.52",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-PANIPAT, HARYANA",
+            "quantity_000_metric_tonnes_": "1263.15",
+            "last_updated": "NA"
+        },
+        {
+            "month": "NA",
+            "year": "2023",
+            "oil_companies_": "IOCL-GUWAHATI,ASSAM",
+            "quantity_000_metric_tonnes_": "96.30",
+            "last_updated": "NA"
+        }
+    ]
+}
