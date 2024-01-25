@@ -1,4 +1,4 @@
-## CODES ON BYTES: Data Science Virtual Internship
+## CODES ON BYTES: Data Science Internship
 
 ## Table of Contents
 
