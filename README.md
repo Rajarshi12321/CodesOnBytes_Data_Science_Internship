@@ -1,10 +1,10 @@
-## CODES ON BYTES: Data Science Internship
+# CODES ON BYTES: Data Science Internship
 
 ## Table of Contents
 
-
-- [Information Related to Completed Projects:](#information-related-to-completed-projects)
-    - [Environment Setup: (Optional but good practice to setup an environment)](#environment-setup-optional-but-good-practice-to-setup-an-environment)
+- [CODES ON BYTES: Data Science Internship](#codes-on-bytes-data-science-internship)
+  - [Table of Contents](#table-of-contents)
+  - [Environment Setup: (Optional but good practice to setup an environment)](#environment-setup-optional-but-good-practice-to-setup-an-environment)
   - [Phase\_1 Projects:](#phase_1-projects)
   - [Task 1. Create  a csv dataset  using python , pandas  and  any public  api](#task-1-create--a-csv-dataset--using-python--pandas--and--any-public--api)
     - [Problem Solution:](#problem-solution)
@@ -15,14 +15,11 @@
     - [Problem Solution:](#problem-solution-2)
   - [Task 4. Train  a  simple  linear  regressing  model  on  dataset and  predict  the output](#task-4-train--a--simple--linear--regressing--model--on--dataset-and--predict--the-output)
     - [Problem Solution:](#problem-solution-3)
-  - [Reference](#reference)
 
 
 
 
-# Information Related to Completed Projects:
-
-### Environment Setup: (Optional but good practice to setup an environment)
+## Environment Setup: (Optional but good practice to setup an environment)
 
 Now making an environment with name `CodesOnByte` having python=3.8 using conda (Using conda to make env)
 ```
@@ -77,6 +74,3 @@ Make sure every module is installed properly
 - Solution Link: https://github.com/Rajarshi12321/CodesOnBytes_Data_Science_Internship/tree/main/Phase2-Projects/Task4-Project
 
 
-## Reference 
-
-Grateful for insightful reference in LinkedIn article - [Link](https://www.linkedin.com/pulse/decoding-data-realms-my-internship-journey-codes-bytes-parvej-ansari-gp9rf/)
